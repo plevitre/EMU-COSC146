@@ -44,4 +44,5 @@ Here are some web pages that you may need to refer to:
         it is not related to my major. Categorical fields would be Country/Region, and perhaps Province/State. 
         There are several numerical fields. Graphing the growth of cases over time for a selected state like 
         Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
+      - Patrick L Data sets [Malicious URLs Data Sets](https://sysnet.ucsd.edu/projects/url) and [Malware Training Sets: A machine learning dataset for everyone](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
 
